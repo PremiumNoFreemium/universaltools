@@ -1,0 +1,62 @@
+{
+    "name": "universaltools",
+    "displayName": "UniversalTools",
+    "icon": "icon.png",
+    "description": "UniversalTools is a set of useful NodeJS,Vue,Quasar and overall Web-development VSCODE extensions with one click installation.",
+    "version": "1.0.0",
+    "publisher": "universaltools",
+    "repository": {
+        "type": "git",
+        "url": "https://PremiumNoFreemium/someicon"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "simonsiefke.auto-rename-tag",
+        "pejmannikram.vscode-auto-scroll",
+        "hnw.vscode-auto-open-markdown-preview",
+        "coenraads.bracket-pair-colorizer",
+        "arcsine.chronicler",
+        "adpyke.codesnap",
+        "naumovs.color-highlight",
+        "alexdima.copy-relative-path",
+        "rid9.datetime",
+        "dbaeumer.vscode-eslint",
+        "shinotatwu-ds.file-tree-generator",
+        "donjayamanne.githistory",
+        "elipecaputo.git-project-manager",
+        "eamodio.gitlens",
+        "vincaslt.highlight-matching-tag",
+        "wix.vscode-import-cost",
+        "nmsmith89.incrementor",
+        "asuka.insertnumbers",
+        "sysoev.language-stylus",
+        "yzhang.markdown-all-in-one",
+        "eg2.vscode-npm-script",
+        "christian-kohler.npm-intellisense",
+        "jack89ita.open-file-from-path",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "abdelaziz18003.quasar-snippets",
+        "simonmosesonazi.quasar-v1-snippets",
+        "helixquar.randomeverything",
+        "syler.sass-indented",
+        "ahmadawais.shades-of-purple",
+        "mrmlnc.vscode-attrs-sorter",
+        "dannyconnell.split-html-attributes",
+        "wayou.vscode-todo-highlight",
+        "octref.vetur",
+        "vscode-icons-team.vscode-icons",
+        "titiaiev.vue-docs",
+        "dariofuzinato.vue-peek",
+        "vaniship.vue-ls-snippets",
+        "keraun.vue-beautify2",
+        "madprops.when-did-i-start-working"
+    ]
+}
