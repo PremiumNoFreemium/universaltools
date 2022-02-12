@@ -7,7 +7,7 @@
     "publisher": "universaltools",
     "repository": {
         "type": "git",
-        "url": "https://PremiumNoFreemium/someicon"
+        "url": "https://github.com/otabekoff/universaltools"
     },
     "engines": {
         "vscode": "^1.44.0"
@@ -16,6 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "vsciot-vscode.vscode-arduino",
         "abdelaziz18003.quasar-snippets",
         "adpyke.codesnap",
         "adrianthedev.vueGenerator",
@@ -24,6 +25,7 @@
         "ardenivanov.svelte-intellisense",
         "AttilioCapocchiani.vuejs-helper",
         "burkeholland.simple-react-snippets",
+        "ms-vscode.cpptools",
         "christian-kohler.npm-intellisense",
         "CoenraadS.bracket-pair-colorizer",
         "dannyconnell.split-html-attributes",
