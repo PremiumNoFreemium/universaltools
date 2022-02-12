@@ -3,7 +3,7 @@
     "displayName": "UniversalTools",
     "icon": "icon.png",
     "description": "UniversalTools is a set of useful NodeJS,Vue,Quasar and overall Web-development VSCODE extensions with one click installation.",
-    "version": "1.0.0",
+    "version": "3.0.0",
     "publisher": "universaltools",
     "repository": {
         "type": "git",
